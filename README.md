@@ -1,4 +1,5 @@
 # Arcade Game Udacity Project 3
+Demo : https://github.com/Joo0x/frontend-nanodegree-arcade-game-master/
 
 ## How to play
 - Use W , A , S , D to move.
@@ -9,3 +10,5 @@
 ## Tools
 - OOP js.
 - Canvas API's.
+
+Good luck have fun 1!
