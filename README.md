@@ -1,6 +1,6 @@
 # Arcade Game Udacity Project 3
 ## Demo
-https://Joo0x.github.com/arcade-game-master
+https://Joo0x.github.io/arcade-game-master
 
 ## How to play
 - Use W , A , S , D to move.
